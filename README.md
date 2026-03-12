@@ -33,3 +33,6 @@ Statistical testing was performed to determine whether rainy Saturdays affect th
 The analysis reveals patterns in taxi demand and highlights how data analysis can support transportation insights.
 
 ![Results](05_resultados.png)
+
+## Link al repositorio
+Demo / Código: [https://github.com/guevarakaren029/chicago-taxi-analysis](https://github.com/guevarakaren029/chicago-taxi-analysis)
